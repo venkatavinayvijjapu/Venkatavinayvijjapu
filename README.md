@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavinayvijjapu" alt="venkatavinayvijjapu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Name Entity recognization**
+- 🔭 I’m currently working on **Large Language Models**
 
 - 🌱 I’m currently learning **GAN, transformers, Chatbot etc.**
 
 - 👯 I’m looking to collaborate on **Automated-Timetable generator**
 
-- 🤝 I’m looking for help with **Name Entity recognization**
+- 🤝 I’m looking for help with **Lang Chain**
 
 - 💬 Ask me about **Machine Learning, Data Science, C, C++, Python**
 
