@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatavinayvijjapu" alt="venkatavinayvijjapu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Large Language Models**
+- 🔭 I’m currently working on **Generative AI**
 
 - 🌱 I’m currently learning **GAN, transformers, Chatbot etc.**
 
